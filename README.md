@@ -4,7 +4,7 @@
 
 I made personal project in order to apply knowledge and to have the opportunity to appy it in a real project
 
-Skills: Java / Spring Boot / DataBase SQL / HTML / CSS / SCRUM
+Skills: Java / Spring Boot / DataBase SQL / HTML / CSS / REACTJS
 
 - 🔭 I’m currently working on personal projects  
 - 🌱 I’m currently learning Analysis and Systems Development with a focus on Java Back-end 
