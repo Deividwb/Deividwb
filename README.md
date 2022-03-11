@@ -1,14 +1,14 @@
 ### Hi there 👋, my name is Deivid
-#### I am Developer Software React frontend
-![I am Java Developer Software](https://sempreupdate.com.br/wp-content/webp-express/webp-images/uploads/2019/02/qual-a-diferenca-entre-programador-e-desenvolvedor.jpg.webp)
+#### I am Developer Software React Front_end
+and Study Java Back_end
 
-I made personal project in order to apply knowledge and to have the opportunity to appy it in a real project
+I made personal project in order to apply knowledge and for appy it in real project
 
 Skills: Java / Spring Boot / DataBase SQL / HTML / CSS / REACTJS
 
-- 🔭 I’m currently working on personal projects  
-- 🌱 I’m currently learning Analysis and Systems Development with a focus on Java Back-end 
-- 👯 I’m looking to collaborate on some real project 
+- 🔭 I’m currently working at Qyon  
+- 🌱 I’m currently learning Analysis and Systems Development with a focus on React and Java Back-end
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Deividwb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/deivid-willian-0069b84b//)  
